@@ -1,0 +1,11 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Código fonte reproduzido do livro 
+${licensePrefix}Testes Automatizados: um guia prático
+${licensePrefix}Maurício Aniche
+${licensePrefix}Casa do Código
+${licensePrefix}http://www.casadocodigo.com.br/products/livro-testes-de-software
+<#if licenseLast??>
+${licenseLast}
+</#if>
